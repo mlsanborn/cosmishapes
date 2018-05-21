@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Level_1/Level 1 Flat.unity
+  isLoaded: 1
+  isActive: 1
